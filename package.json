@@ -1,0 +1,14 @@
+{
+  "name": "ocalm",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/reduce.spec.js"
+  },
+  "author": "William Buchwalter",
+  "license": "MIT",
+  "devDependencies": {
+    "expect": "^1.14.0"
+  }
+}
